@@ -81,3 +81,43 @@ section{
  
 /* aq mravrdeba section  */
 
+/* aq iwyeba footer  */
+
+footer{
+    padding: 98px;
+    background-color: #758BFD;
+}
+.footerhead{
+    font-family: 'Carrois Gothic', sans-serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #00CAD7;
+    
+    
+}
+
+.footerlogos{
+    display: flex;
+   justify-content: flex-end;
+   gap: 11px;
+   border-radius: 5px;
+
+   
+  
+
+}
+.footertext{
+    font-family: 'Carrois Gothic', sans-serif;
+    font-size: 13px;
+    color:  #FFFFFF
+}
+.footericons{
+    margin-top: 12px;
+    display: flex;
+    gap: 24px;
+}
+.icones{
+    color: #FFFFFF;
+    
+}
+/* mtavrdeba footer  */
